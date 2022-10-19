@@ -4,7 +4,7 @@
 
 Projeto baseado no conteúdo da Rocketseat 🚀
 
-![Imagem ilustrativa do video](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2dfcbe1d-989a-4ca6-ae3e-ad956bee4a89/Untitled.png)
+![Imagem ilustrativa do vídeo](https://user-images.githubusercontent.com/7591530/196591839-c6e6a5ed-b2c0-42fb-8dfb-802ee143c04c.png)
 
 [Vídeo referência](https://www.youtube.com/watch?v=zhgbanI0UV8)
 
@@ -16,13 +16,13 @@ Exemplo:
 
 Classe abstrata “Animal” - método “Fazer barulho”
 
-→ Classes derivadas 
+  → Classes derivadas 
 
-→ Cachorro
+     → Cachorro
 
-→ Gato
+     → Gato
 
-→ Pássaro
+     → Pássaro
 
  
 
@@ -31,3 +31,11 @@ Classe abstrata “Animal” - método “Fazer barulho”
 Nosso componente é um botão mas em alguns casos deve se comportar como uma tag <a>.
 
 Por questões de acessibilidade e semântica, devemos deixar apenas que o componente retorne a tag compatível com sua instância.
+
+> botões em tela
+
+![Botões](https://user-images.githubusercontent.com/7591530/196591750-e9f5b735-25c1-4716-8196-e27da9aa9c33.png)
+
+> resultado no DOM
+
+![image](https://user-images.githubusercontent.com/7591530/196592029-4ea34bcd-2f3f-4bc4-8816-43219714f560.png)
